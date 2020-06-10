@@ -1,0 +1,42 @@
+Name: Thomas Dolan (github: tjdolan121)
+Partner: Thomas Cochran (github: t-cochran)
+
+
+*   commit c4e407803ab82497567a482970fd8203fd83dce5 (HEAD -> master)
+|\  Merge: e7db6a5 d74c354
+| | Author: Thomas Dolan <tdolanindiana@yahoo.com>
+| | Date:   Tue Jun 9 17:58:45 2020 -0600
+| |
+| |     Merge branch 'master' of https://github.com/tjdolan121/Lab4_3308
+| |
+| * commit d74c35448bde55ca6b39c4d878970a65a237f8f8 (origin/master)
+| | Author: t-cochran <cochran@colorado.edu>
+| | Date:   Tue Jun 9 17:54:24 2020 -0600
+| |
+| |     Added partner name
+| |
+* | commit e7db6a55d30a218b4e4d123e6402c6a49307efa3
+|/  Author: Thomas Dolan <tdolanindiana@yahoo.com>
+|   Date:   Tue Jun 9 17:58:01 2020 -0600
+|
+|       Added possible merge conflict
+|
+* commit a4ea22fe544ba4b3000986f4b03e176441b981aa
+| Author: Thomas Dolan <tdolanindiana@yahoo.com>
+| Date:   Tue Jun 9 17:30:37 2020 -0600
+|
+|     added stuff to settings
+|
+* commit 5ec36530b31762a55961df9e623c42d5534265b8 (origin/testing-new-files, testing-new-files)
+| Author: Thomas Dolan <tdolanindiana@yahoo.com>
+| Date:   Tue Jun 9 17:24:34 2020 -0600
+|
+|     Added func1 and func2
+|
+* commit 2b4ff70f8ab3dcd5b4e17c1729fffaf0783e3a5e (tag: v0.0.1)
+| Author: Thomas Dolan <tdolanindiana@yahoo.com>
+| Date:   Fri Jun 5 06:27:43 2020 -0600
+|
+|     Added settings
+|
+* commit 0386b45b7b43942c7dbbe96e43cdddb91d097634
