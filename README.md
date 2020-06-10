@@ -1,6 +1,6 @@
 Partner: Thomas Cochran
 
-# Lab4_3308: Version Control
+# Lab4_3308: Version Control another conflict
 ## Author: Thomas Dolan
 
 
