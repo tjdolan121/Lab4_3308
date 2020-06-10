@@ -1,7 +1,7 @@
 Name: Thomas Dolan (github: tjdolan121)
 Partner: Thomas Cochran (github: t-cochran)
 
-
+First Conflict:
 *   commit c4e407803ab82497567a482970fd8203fd83dce5 (HEAD -> master)
 |\  Merge: e7db6a5 d74c354
 | | Author: Thomas Dolan <tdolanindiana@yahoo.com>
@@ -40,3 +40,5 @@ Partner: Thomas Cochran (github: t-cochran)
 |     Added settings
 |
 * commit 0386b45b7b43942c7dbbe96e43cdddb91d097634
+
+
