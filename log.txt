@@ -41,4 +41,14 @@ First Conflict:
 |
 * commit 0386b45b7b43942c7dbbe96e43cdddb91d097634
 
+Partner: Thomas Cochran
 
+<<<<<<< HEAD
+# Lab4_3308: Version Control another conflict
+=======
+# Lab4_3308: Version Control creating a merge conflict for dolan
+>>>>>>> 86e726ec504b39888e73e3cac5b44952379fda4c
+## Author: Thomas Dolan
+
+
+This might cause a merge conflict
